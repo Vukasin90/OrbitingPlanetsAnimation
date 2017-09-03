@@ -30,7 +30,7 @@ html, body {
     z-index: 2;
     height: 100%;
     width: 100%;
-    background: url("Pictures/maxresdefault.jpg");
+    background: url(OrbitingPlanetsAnimation/Pictures/maxresdefault.jpg);
     animation: starPuls 30s infinite alternate;
 }
 
